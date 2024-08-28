@@ -26,6 +26,7 @@ Effective cost control ensures that a software project remains financially viabl
 
 |Aspect|Agile|Waterfall|
 |------|-----|---------|
+|Approach|Iterative and incremental development|Linear and sequential development|
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
